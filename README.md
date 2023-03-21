@@ -6,3 +6,5 @@ Maintenant, des personnes font des reproductions de cette borne, ou du moins du 
 C'est pourquoi j'ai décidé de faire ce projet de carte SIF permettant de filtrer correctement les signaux d'entrée, et s'adaptant à la plupart des versions maison des Taiko que l'on peut trouver sur internet et refaire chez sois.
 
 Le réglage se fait directement sur la carte en suivant une méthode simple.
+
+![alt text](https://github.com/Mik027/SIF-PCB-Taiko-No-Tatsijin/blob/main/SIF%20PCB%20FACE.jpg)
