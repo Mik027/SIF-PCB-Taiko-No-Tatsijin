@@ -9,19 +9,19 @@ Le réglage se fait directement sur la carte en suivant une méthode simple.
 
 Nomenclature :
 
-A1 : Arduino Pro Micro (Qté 1)
-Cx1 : Condensateur 1µF 1206 (Qté 8)
-Cx2 : Condensateur 4,7µF 1206 (Qté 8)
-CUxx : Condensateur 100nF 1206 (Qté 12)
-Dx : LED 1206 (Qté 8)
-Jx : TerminalBlock ou autre 2.54mm (Pour 2x8 entrées)
-Rx1, Rx2 : Résistance 1kΩ 1206 (Qté 16)
-Rx3 : Résistance 33kΩ 1206 (Qté 8)
-Rx4 : Résistance 100kΩ 1206 (Qté 8)
-Rx5 : Résistance 120Ω 1206 (Qté 8)
-RVxx : Potentiomètre 50kΩ 10 tours 3299Y (Qté 16)
-Ux1 : LM324N
-Ux2 : SN74HCY00N
-Ux3 : CD74HC4538E
+* A1 : Arduino Pro Micro (Qté 1)
+* Cx1 : Condensateur 1µF 1206 (Qté 8)
+* Cx2 : Condensateur 4,7µF 1206 (Qté 8)
+* CUxx : Condensateur 100nF 1206 (Qté 12)
+* Dx : LED 1206 (Qté 8)
+* Jx : TerminalBlock ou autre 2.54mm (Pour 2x8 entrées)
+* Rx1, Rx2 : Résistance 1kΩ 1206 (Qté 16)
+* Rx3 : Résistance 33kΩ 1206 (Qté 8)
+* Rx4 : Résistance 100kΩ 1206 (Qté 8)
+* Rx5 : Résistance 120Ω 1206 (Qté 8)
+* RVxx : Potentiomètre 50kΩ 10 tours 3299Y (Qté 16)
+* Ux1 : LM324N
+* Ux2 : SN74HCY00N
+* Ux3 : CD74HC4538E
 
 ![alt text](https://github.com/Mik027/SIF-PCB-Taiko-No-Tatsijin/blob/main/SIF%20PCB%20FACE.jpg)
