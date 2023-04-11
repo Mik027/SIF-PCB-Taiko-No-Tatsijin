@@ -12,7 +12,7 @@ Nomenclature :
 * A1 : Arduino Pro Micro (Qté 1)
 * Cx1 : Condensateur 1µF 1206 (Qté 8)
 * Cx2 : Condensateur 4,7µF 1206 (Qté 8)
-* CUxx : Condensateur 100nF 1206 (Qté 12)
+* CUxx : Condensateur 150nF 1206 (Qté 12)
 * Dx : LED 1206 (Qté 8)
 * Jx : TerminalBlock ou autre 2.54mm (Pour 2x8 entrées)
 * Rx1, Rx2 : Résistance 1kΩ 1206 (Qté 16)
