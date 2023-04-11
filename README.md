@@ -24,4 +24,4 @@ Nomenclature :
 * Ux2 : SN74HCY00N
 * Ux3 : CD74HC4538E
 
-![alt text](https://github.com/Mik027/SIF-PCB-Taiko-No-Tatsijin/blob/main/SIF%20PCB.jpg)
+![alt text](https://github.com/Mik027/SIF-PCB-Taiko-No-Tatsijin/blob/main/SIF%20TNT%20PCB.jpg)
