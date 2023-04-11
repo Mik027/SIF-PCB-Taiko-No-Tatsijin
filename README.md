@@ -25,3 +25,7 @@ Nomenclature :
 * Ux3 : CD74HC4538E
 
 ![alt text](https://github.com/Mik027/SIF-PCB-Taiko-No-Tatsijin/blob/main/SIF%20TNT%20PCB.jpg)
+
+* v2.0 : Correction pinout de l'Arduino Pro Micro + Release Gerber
+* v1.1 : Correction faute de frappe dans les instructions
+* v1.0 : Design initial
